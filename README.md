@@ -7,4 +7,4 @@ Exercises:
 
 1: A First Good Program [link] 
 
-[link-id]: /ex-1.py
+[link-id]: ./ex-1.py
