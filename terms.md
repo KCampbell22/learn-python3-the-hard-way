@@ -1,0 +1,57 @@
+# Terms and definitions
+
+[]: # Language: markdown
+[]: # Path: terms.md
+# Terms and definitions
+- comment: #
+  - Comments are ignored by the interpreter, and are used for documentation purposes.
+  - Comments can be used to comment out a section of code, or to comment out a line of code.
+- print()
+  - print() is a function that prints the value of its argument to the screen.
+  - this function takes a single argument.
+  - this argument can be a string, a number, or a list.
+  - You can use print() to print multiple values by separating them with a comma.
+  - You can see the output of print() by running the program in the terminal.
+- plus: +
+  - The plus sign is used to add two numbers together.
+  - The plus sign is also used to concatenate two strings.
+  - The plus sign is also used to add a string to a number.
+  - The plus sign is also used to add a number to a string.
+- minus: -
+  - The minus sign is used to subtract one number from another.
+  - The minus sign is also used to remove a character from a string.
+  - The minus sign is also used to remove a character from a number.
+- slash: /
+  - The slash is used to divide one number by another.
+  - The slash is also used to divide a string by a number.
+  - The slash is also used to divide a number by a string.
+- asterisk: *
+  - The asterisk is used to multiply two numbers together.
+  - The asterisk is also used to multiply a string by a number.
+  - The asterisk is also used to multiply a number by a string.
+- percent: %
+  - The percent sign is used to divide one number by another.
+  - The percent sign is also used to divide a string by a number.
+  - The percent sign is also used to divide a number by a string.
+  - The percent represents the remainder of a division.
+- less than: <
+  - The less than sign is used to compare two numbers.
+  - The less than sign is also used to compare two strings.
+  - The less than sign is also used to compare a number to a string.
+  - The less than sign is also used to compare a string to a number.
+- greater than: >
+  - The greater than sign is used to compare two numbers.
+  - The greater than sign is also used to compare two strings.
+  - The greater than sign is also used to compare a number to a string.
+  - The greater than sign is also used to compare a string to a number.
+- greater than or equal to: >=
+  - The greater than or equal to sign is used to compare two numbers.
+  - The greater than or equal to sign is also used to compare two strings.
+  - The greater than or equal to sign is also used to compare a number to a string.
+  - The greater than or equal to sign is also used to compare a string to a number.
+- less than or equal to: <=
+  - The less than or equal to sign is used to compare two numbers.
+  - The less than or equal to sign is also used to compare two strings.
+  - The less than or equal to sign is also used to compare a number to a string.
+  - The less than or equal to sign is also used to compare a string to a number.
+- 
