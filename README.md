@@ -17,4 +17,7 @@ Exercises:
 - This program includes comments and pound characters.
 - This program demonstrates what comments are and how they are used.
 
-3: A Simple Program [Exercise 3](ex-3.py)
+3: Numbers and Math [Exercise 3](ex-3.py)
+- This program includes numbers and math.
+- Programs goes over math operators. 
+  
