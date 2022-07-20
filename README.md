@@ -9,4 +9,4 @@ Exercises:
 1: A First Good Program [link] 
 
 [link-id]: ./ex-1.py
-1: A First Good Program  [learn-python3-the-hard-way](ex-1.py) ex-1
+1: A First Good Program  [learn-python3-the-hard-way](ex-1.py)
