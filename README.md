@@ -16,3 +16,5 @@ Exercises:
 2: Comments and Pound Characters [Exercise 2](ex-2.py)
 - This program includes comments and pound characters.
 - This program demonstrates what comments are and how they are used.
+
+3: A Simple Program [Exercise 3](ex-3.py)
