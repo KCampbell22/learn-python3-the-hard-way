@@ -5,6 +5,4 @@ This repo is strictlty for learning perposes. This can help others,as well as me
 
 Exercises:
 
-1: A First Good Program [link] 
-
-[link-id]: /ex-1.py
+1: A First Good Program  [learn-python3-the-hard-way](ex-1.py)
