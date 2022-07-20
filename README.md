@@ -13,6 +13,6 @@ Exercises:
 - This program introduces the print() function.
 - Program that includes mulitple print() statements.
 
-2: Comments and Pound Characters [Exercise 2] (ex-2.py)
+2: Comments and Pound Characters [Exercise 2](ex-2.py)
 - This program includes comments and pound characters.
 - This program demonstrates what comments are and how they are used.
