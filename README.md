@@ -20,4 +20,8 @@ Exercises:
 3: Numbers and Math [Exercise 3](ex-3.py)
 - This program includes numbers and math.
 - Programs goes over math operators. 
-  
+
+4: Variables and Names [Exercise 4](ex-4.py)
+- This program includes variables and names.
+
+5: More Variables and Printing [Exercise 5](ex-5.py)
