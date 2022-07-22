@@ -25,3 +25,12 @@ Exercises:
 - This program includes variables and names.
 
 5: More Variables and Printing [Exercise 5](ex-5.py)
+
+6: String and Text [Exercise 6](ex-6.py)
+- This program shows what strings and formated strings can do
+
+7: More Printing [Exercise 7](ex-7.py)
+- This program shows how to print multiple things.
+
+
+  

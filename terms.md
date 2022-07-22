@@ -54,4 +54,10 @@
   - The less than or equal to sign is also used to compare two strings.
   - The less than or equal to sign is also used to compare a number to a string.
   - The less than or equal to sign is also used to compare a string to a number.
+- Variable:
+  - A variable is a name that is assigned to a value.
+  - Variables point to a location in memory.
+- Formated Strings: 
+  - f"" is used to format a string.
+  - {} is used to represent a value in a string.
 - 
