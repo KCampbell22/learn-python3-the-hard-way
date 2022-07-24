@@ -32,5 +32,15 @@ Exercises:
 7: More Printing [Exercise 7](ex-7.py)
 - This program shows how to print multiple things.
 
+8: Printing, Printing [Exercise 8](ex-8.py)
+- you can use a variable with a string of {}s to use as a ouline for a string, or a version of a formated string. 
+- You define the variable and call the variable like: print(formatter.format(.....))
+
+9: Printing, Printing, Printing [Excercise 9](ex-9.py)
+-   ' """ ' allows you to control the layout of a message or string without using escape sequences
+-   Also allows you to use single and double quotations in the same string. 
+-   Mainly helps avoid escape, and allows cleaner and more readable code.
+
+10: What Was that? [Excercise 10](ex-10.py)
 
   
