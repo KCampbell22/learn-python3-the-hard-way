@@ -15,4 +15,7 @@ print(backslash_cat)
 print(fat_cat)
 
 #excape sequence
+
+    # caracters that follow a backslash "\" that do not represent themselves. 
+        #such as tab, newline, return, etc. 
 #see terms.md for all of the escape sequences
